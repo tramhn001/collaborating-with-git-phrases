@@ -4,5 +4,5 @@ def greet():
 def chat():
     print("How are you?")
 
-def farewell();
+def farewell():
     print("Goodby, World!")
